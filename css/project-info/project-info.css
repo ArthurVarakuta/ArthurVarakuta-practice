@@ -1,0 +1,19 @@
+.project-info-wrapper {
+  font-family: "Roboto", sans-serif;
+  min-height: 250px;
+  min-width: 100%;
+  background-color: var(--accent-color);
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.project-info-unit {
+  padding: 15px;
+}
+.project-info-heading {
+  font-size: 2em;
+}
+.project-info-text {
+  font-size: 1em;
+}
